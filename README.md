@@ -1,4 +1,4 @@
-# Codebase for *"Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders"*
+# Codebase supporting *"Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders"*
 
 This repository contains the codebase associated with the paper: 
 
